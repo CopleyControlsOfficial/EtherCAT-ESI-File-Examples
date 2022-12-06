@@ -16512,7 +16512,7 @@
         <TxPdo Fixed="0">
           <Index>#x1a00</Index>
           <Name>Transmit PDO 1</Name>
-		  <Entry>
+          <Entry>
             <Index DependOnSlot="0">#x219a</Index>
             <SubIndex>0</SubIndex>
             <BitLen>32</BitLen>
